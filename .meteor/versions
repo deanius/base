@@ -2,6 +2,7 @@ accounts-base@1.2.1
 accounts-password@1.1.3
 aldeed:collection2@2.5.0
 aldeed:simple-schema@1.3.3
+amd:manager@0.2.0
 audit-argument-checks@1.0.4
 autoupdate@1.2.3
 babel-compiler@5.8.24_1
@@ -27,6 +28,7 @@ ddp-client@1.2.1
 ddp-common@1.2.1
 ddp-rate-limiter@1.0.0
 ddp-server@1.2.1
+deanius:lego@0.1.0
 deps@1.0.9
 diff-sequence@1.0.1
 digilord:faker@1.0.7
